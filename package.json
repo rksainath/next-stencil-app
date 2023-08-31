@@ -9,6 +9,8 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "col-pci-wc": "^1.0.8",
+    "dompurify": "^3.0.5",
     "eslint": "8.47.0",
     "eslint-config-next": "13.4.16",
     "next": "13.4.16",
